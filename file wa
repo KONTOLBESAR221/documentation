@@ -1,0 +1,67 @@
+const fs = require('fs')
+//~~~~~~~~~SETTING BOT~~~~~~~~~~//
+global.owner = "6285167249152" //ganti aja
+global.nama = "𝘒𝘺𝘢𝘮𝘪 𝘚𝘪𝘭𝘦𝘯𝘤𝘦" //ganti aja
+global.namaowner = "𝘚𝘭𝘯𝘤-𝘒𝘺𝘢𝘮𝘪" // Ganti aja
+global.namaBot = "𝘞𝘩𝘪𝘵𝘦 𝘘𝘶𝘦𝘦𝘯 𝘔𝘶𝘭𝘵𝘪 𝘋𝘦𝘷𝘪𝘤𝘦" // Ganti aja
+global.ch = 'https://whatsapp.com/channel/0029VafQO7nCcW4mC1wOHF3Z' // Ganti aja
+global.status = true 
+global.foother = "©irzi-senpai" // Ganti aja
+global.namach = '𝘒𝘺𝘢𝘮𝘪 𝘕𝘦𝘦𝘥 𝘎𝘪𝘳𝘭' // Ganti aja
+global.idch = '120363319853536200@newsletter' // diemin kalau gda
+global.namafile = '𝘒𝘺𝘢𝘮𝘪 𝘕𝘦𝘦𝘥 𝘎𝘪𝘳𝘭 :(' // Ganti aja
+global.yt = 'https://youtube.com/@slnckyami' // Ganti aja
+global.themeemoji = '🌸' // Ganti aja
+global.packname = "𝘚𝘵𝘪𝘤𝘬𝘦𝘳 𝘉𝘺" // Ganti aja
+global.author = "\n\n\n\n\n𝘊𝘳𝘦𝘢𝘵𝘦 𝘉𝘺 𝘞𝘩𝘪𝘵𝘦 𝘘𝘶𝘦𝘦𝘯\n𝘠𝘛 : @irziirzi-senpai31" // Ganti aja
+global.creator = "6285167249152@s.whatsapp.net" // Ganti aja
+global.welcome = false
+global.autoswview = true //auto status/story view
+global.delayPushkontak = 7500
+//~~~~~~~~~ Settings Payment ~~~~~~~~~//
+global.dana = "081250431837" // Ganti aja
+global.ovo = "Tidak Tersedia" // Ganti aja
+global.qris = "https://img86.pixhost.to/images/414/561641458_slnckyami.jpg" // Ganti aja
+//====== [ THEME URL & URL ] ========//
+global.thumb = fs.readFileSync('./kyami.jpg'); // Buffer Image
+global.thumbnail = 'https://files.catbox.moe/jkc9rk.jpg' // Ganti aja
+global.reply = 'https://files.catbox.moe/a242xj.jpg' // Ganti aja
+global.Url = '-' // Ganti aja
+global.logodana = "https://img100.pixhost.to/images/667/540082364_skyzopedia.jpg",  // Ganti aja
+global.logoovo = "https://img100.pixhost.to/images/667/540082774_skyzopedia.jpg",  // Ganti aja
+//~~~~~~~~~ Settings panel ~~~~~~~~~//
+global.domain = "hhttps://fya-zuroku.serverku.biz.id" // Ganti aja
+global.apikey = "ptla_je7zAUYKuoe6l87aB4PG1cbT6ZPzVxfJmqh1zUWIhtI" // Ganti aja
+global.capikey = "ptlc_X4dV0e5ynhBbysQCY6VSGG0nlCOoRNHKsiq4znPgxDL" // Ganti aja
+//~~~~~~~~~ Settings panel ~~~~~~~~~//
+global.domain2 = "https://asy-x-sayang-x-velly.asy-host.biz.id" // Ganti aja
+global.apikey2 = "ptla_IEFwgryQ62E0ylDR9GHWAR71gusrHykAdIiIPwOw4gt" // Ganti aja
+global.capikey2 = "ptlc_hQqWVLncYSAd7EtNUhfvzumDToA4ATVVzrXbt26MZP4" // Ganti aja
+//~~~~~~~~~ Settings panel ~~~~~~~~~//
+global.domain3 = "https://kontol.asy-host.biz.id" // Ganti aja
+global.apikey3 = "" // Ganti aja
+global.capikey3 = "ptlc_hd8qUYfm3N3ElODrnlG7qC11xQSGHU4ymfOPV0q8jH6" // Ganti aja
+global.egg = "15"
+global.loc = "1"
+//~~~~~~~~~ Settings reply ~~~~~~~~~//
+global.mess = {
+    owner: "𝙏𝙝𝙞𝙨 𝙄𝙨 𝙁𝙤𝙧 𝙊𝙬𝙣𝙚𝙧, 𝙉𝙤𝙩 𝙁𝙤𝙧 𝙔𝙤𝙪 ´◡`",
+    prem: "𝙏𝙝𝙞𝙨 𝙄𝙨 𝙁𝙤𝙧 𝙋𝙧𝙚𝙢𝙞𝙪𝙢, 𝙉𝙤𝙩 𝙁𝙤𝙧 𝙔𝙤𝙪 ´◡`",
+    group: "𝙏𝙝𝙞𝙨 𝙄𝙨 𝙁𝙤𝙧 𝙂𝙧𝙤𝙪𝙥 𝙊𝙣𝙡𝙮 ´◡`",
+    private: "𝙊𝙣𝙡𝙮 𝙋𝙧𝙞𝙫𝙖𝙩𝙚 𝘾𝙝𝙖𝙩 𝙎𝙞𝙧 ´◡`"
+}
+
+
+global.packname = '𝘞𝘩𝘪𝘵𝘦 𝘘𝘶𝘦𝘦𝘯 𝘔𝘶𝘭𝘵𝘪 𝘋𝘦𝘷𝘪𝘤𝘦' // Ganti aja
+global.author = '\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n@irziirzi-senpai31' // Ganti aja
+//~~~~~~~~~~~ DIEMIN ~~~~~~~~~~//
+global.pairing = "" // Jangan Di Apa Apain
+global.qrcode = "120363319853536200@newsletter" // Jangan Di Apa Apain
+
+let file = require.resolve(__filename)
+require('fs').watchFile(file, () => {
+  require('fs').unwatchFile(file)
+  console.log('\x1b[0;32m'+__filename+' \x1b[1;32mupdated!\x1b[0m')
+  delete require.cache[file]
+  require(file)
+})
